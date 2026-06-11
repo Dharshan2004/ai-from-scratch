@@ -34,7 +34,7 @@ Original source: https://github.com/rohitg00/ai-engineering-from-scratch
 
 | Phase | Focus | Status |
 |---|---|---|
-| Math Foundations | Gradient descent, chain rule, autodiff | ⬜ |
+| Math Foundations | Gradient descent, chain rule, autodiff | ✅ |
 | Deep Learning | Backprop, optimizers, PyTorch | ⬜ |
 | Transformers | Self-attention, multi-head attention, GPT architecture | ⬜ |
 | LLMs from Scratch | Tokenizers, pre-training, RLHF, DPO | ⬜ |
