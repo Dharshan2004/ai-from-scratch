@@ -26,9 +26,8 @@ rather than just consume from it.
 
 Adapted from [AI Engineering from Scratch](https://aiengineeringfromscratch.com)
 by Rohit Ghumare — a free, open-source curriculum spanning 503 lessons
-across 20 phases. This version is a focused 7-day sprint combining the
-curriculum's structure with targeted YouTube resources. It covers the
-theory spine relevant to agentic AI rather than the full course.
+across 20 phases. This version combines the curriculum's structure with
+targeted YouTube resources, covering the theory spine relevant to agentic AI.
 
 Original source: https://github.com/rohitg00/ai-engineering-from-scratch
 
@@ -56,19 +55,14 @@ Original source: https://github.com/rohitg00/ai-engineering-from-scratch
 
 ---
 
-## Daily notes
+## Lessons
 
-Each day has a `notes.md` covering: what I watched, what I built, the
+Each lesson has a `notes.md` covering: what I watched, what I built, the
 key insight, what I got wrong, and how it connects to systems I've
 already shipped.
 
-- [Day 1 — Math Foundations](./week-1/day-1-math/notes.md)
-- [Day 2 — Deep Learning + Backprop](./week-1/day-2-backprop/notes.md)
-- [Day 3 — Transformers](./week-1/day-3-transformers/notes.md)
-- [Day 4 — LLM Internals](./week-1/day-4-llm-internals/notes.md)
-- [Day 5 — Application Layer](./week-1/day-5-application/notes.md)
-- [Day 6 — Agent Engineering](./week-1/day-6-agents/notes.md)
-- [Day 7 — Multi-Agent Systems](./week-1/day-7-multi-agent/notes.md)
+- [Lesson 1 — Foundations](./lesson-1-foundations/notes.md) — Math foundations + Deep learning & backprop
+- [Lesson 2 — Architectures](./lesson-2-architectures/notes.md) — Transformers, LLM internals, application layer, agents, multi-agent
 
 ---
 
